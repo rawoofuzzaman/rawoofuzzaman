@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="./banner-ticker.svg" width="860" alt="RUZ identity tape" />
+<img src="./banner-ticker.svg?v=4" width="860" alt="RUZ tape" />
 
 <br><br>
 
 <table>
   <tr>
     <td valign="top" width="370">
-      <img src="./ascii-portrait.svg" width="370" alt="Cockpit cam — RAWOOF UZ ZAMAN" />
+      <img src="./source-photo.jpg?v=4" width="370" alt="RAWOOF UZ ZAMAN" />
     </td>
     <td valign="top" width="490">
-      <img src="./desk-card.svg" width="490" alt="Desk blotter" />
+      <img src="./desk-card.svg?v=4" width="490" alt="Desk card" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<img src="./year-tape.svg" width="860" alt="Year tape — commits as volume" />
+<img src="./year-tape.svg?v=4" width="860" alt="Year tape" />
 
 <br><br>
 
