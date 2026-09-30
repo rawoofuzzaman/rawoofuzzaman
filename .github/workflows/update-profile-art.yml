@@ -1,0 +1,31 @@
+name: Update year tape
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  tape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+      - name: Scrape public contribution calendar
+        run: python scripts/fetch_contributions.py
+        continue-on-error: true
+      - name: Render year tape
+        run: python scripts/render_heatmap_svg.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: reprint year tape [skip ci]"
+          file_pattern: "data/contributions.json year-tape.svg contrib-heatmap.svg"
