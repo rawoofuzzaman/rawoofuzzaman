@@ -1,0 +1,16 @@
+"""Shared visual system — warm desk, not GitHub-clone gray/green."""
+BG = "#08090b"
+BG2 = "#10120e"
+PANEL = "#0e100c"
+STROKE = "#2a2d24"
+GOLD = "#d4b45a"
+GOLD2 = "#f0d56a"
+UP = "#3dd68c"
+INK = "#e6dcc0"
+DIM = "#8a8370"
+MUTED = "#5c5748"
+RED = "#d4654f"
+
+PALETTE = ["#14160f", "#2a3320", "#4a5c32", "#8a7a28", "#c4a035", "#f0d56a"]
+MONO = "ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace"
+SANS = "-apple-system, Segoe UI, Helvetica, Arial, sans-serif"
