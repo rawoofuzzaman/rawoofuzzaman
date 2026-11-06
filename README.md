@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="./banner-ticker.svg" width="960" alt="Rawoof Uz Zaman · Full-time trader · AI product builder · MBA candidate" />
-</p>
-<p align="center">
-  <img src="./desk-card.svg" width="960" alt="Rawoof Uz Zaman. Full-time trader. AI product builder. MBA candidate, 2025–27. Based in Warangal, India." />
+  <img src="./hero.svg" width="960" alt="Rawoof Uz Zaman. Full-time trader, AI product builder, MBA candidate." />
 </p>
 
 <p align="center">
@@ -12,19 +9,19 @@
   <a href="https://instagram.com/rawoofuzzaman">Instagram</a>
 </p>
 
-### At the intersection of markets and product
-
 I'm **Rawoof, a full-time trader and AI product builder**, pursuing an MBA at SRM Institute of Science and Technology (2025–27). I'm working toward AI product roles, with hands-on projects in trading systems, multilingual voice AI and local video generation.
 
 I own the product decisions and build with AI coding assistance: define the problem, set evaluation criteria, test the output and revise when the evidence changes.
 
-### Selected builds
-
-The code for these projects is private. I'm happy to walk through any of them.
+<p align="center"><img src="./divider.svg" width="960" alt="" /></p>
 
 <p align="center">
-  <img src="./project-board.svg" width="960" alt="Selected builds: Al Amanah AI, Faris, Sakina Reels and Motion-Graphics Reels. Details follow as text." />
+  <img src="./builds.svg" width="960" alt="Selected builds: Al Amanah AI, Faris, Sakina Reels and Motion Reels. The code is private." />
 </p>
+
+<details>
+<summary><strong>Read about each build</strong></summary>
+<br />
 
 **01 / Al Amanah AI — Shariah-compliant trading system**<br />
 Rules-based screening, order handling and risk controls for NSE cash equities, built inside Shariah limits: no derivatives, shorting or leverage. Each change is tested on history and in forward tests first, with 676 automated tests guarding the order path. **Private: the code and strategy rules are not public.**
@@ -38,6 +35,8 @@ Built a pipeline for 1080 × 1920 Quran and Hadith reels on an 8 GB MacBook Air 
 **04 / AI Motion-Graphics Reel Generator**<br />
 Turns human-verified JSON scripts into video using NumPy, OpenCV and FFmpeg, including right-to-left Arabic text. Qwen3 writes captions only; Whisper checks audio against on-screen text. A roughly 37-second video renders in about 2.5 minutes on an 8 GB M1. **Two samples made; auto-posting not built.**
 
+</details>
+
 <details>
 <summary><strong>More experiments: community access and hardware</strong></summary>
 
@@ -47,7 +46,15 @@ Turns human-verified JSON scripts into video using NumPy, OpenCV and FFmpeg, inc
 
 </details>
 
-### What I bring to a product team
+<p align="center"><img src="./divider.svg" width="960" alt="" /></p>
+
+<p align="center">
+  <img src="./stack.svg" width="960" alt="Tools and skills, including Python, Qwen3, Whisper, FFmpeg, RAG and evaluation design." />
+</p>
+
+<details>
+<summary><strong>What I bring to a product team</strong></summary>
+<br />
 
 | Product judgment | Tools I build and test with |
 | :--- | :--- |
@@ -55,6 +62,8 @@ Turns human-verified JSON scripts into video using NumPy, OpenCV and FFmpeg, inc
 | LLM applications, RAG and voice AI | Twilio, local LLMs, retrieval pipelines |
 | Feature prioritisation, vendor and cost analysis | NumPy, OpenCV, FFmpeg |
 | Customer demand, operations and experimentation | Shopify, Meta Ads, Snapchat Ads |
+
+</details>
 
 <details>
 <summary><strong>Before these builds: commerce, marketing and operations</strong></summary>
@@ -65,13 +74,17 @@ Turns human-verified JSON scripts into video using NumPy, OpenCV and FFmpeg, inc
 
 </details>
 
-### Learning, alongside the work
+<details>
+<summary><strong>Learning, alongside the work</strong></summary>
+<br />
 
 **MBA**, SRM Institute of Science and Technology · 2025–27<br />
 **BBA in Data Analytics**, SR University · 2022–25<br />
 **NextLeap Product Manager Fellowship** · Since Aug 2026<br />
 **IIM Tiruchirappalli — Certificate in Product Management in the Agentic AI Era** · Since Aug 2026
 
+</details>
+
 ---
 
-Interested in AI products, evaluation or tools for traders? [Let's connect.](https://www.linkedin.com/in/rawoof-uz-zaman/)
+<p align="center">Interested in AI products, evaluation or tools for traders? <a href="https://www.linkedin.com/in/rawoof-uz-zaman/">Let's connect.</a></p>
