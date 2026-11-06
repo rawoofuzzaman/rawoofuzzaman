@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg?v=4" width="960" alt="Rawoof Uz Zaman. Full-time trader, AI product builder, MBA candidate." />
+  <img src="./hero.svg?v=5" width="960" alt="Rawoof Uz Zaman. Full-time trader, AI product builder, MBA candidate." />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ I own the product decisions and build with AI coding assistance: define the prob
 The code for these projects is private. I'm happy to walk through any of them.
 
 <p align="center">
-  <img src="./builds.svg?v=4" width="960" alt="Selected builds: Al Amanah AI, Faris, Educational Reels, Motion Reels and Rawoof Factory. The code is private." />
+  <img src="./builds.svg?v=5" width="960" alt="Selected builds: Al Amanah AI, Faris, Educational Reels, Motion Reels and Rawoof Factory. The code is private." />
 </p>
 
 <details>
@@ -52,7 +52,7 @@ Makes short vertical teaching reels for rawoof.product ("App Secrets") using loc
 </details>
 
 <p align="center">
-  <img src="./stack.svg?v=4" width="960" alt="Tools and skills, including Python, Qwen3, Whisper, FFmpeg, RAG and evaluation design." />
+  <img src="./stack.svg?v=5" width="960" alt="Tools and skills, including Python, Qwen3, Whisper, FFmpeg, RAG and evaluation design." />
 </p>
 
 <details>
@@ -84,7 +84,7 @@ Makes short vertical teaching reels for rawoof.product ("App Secrets") using loc
 **MBA**, SRM Institute of Science and Technology · 2025–27<br />
 **BBA in Data Analytics**, SR University · 2022–25<br />
 **NextLeap Product Manager Fellowship** · Since Aug 2026<br />
-**IIM Tiruchirappalli — Certificate in Product Management in the Agentic AI Era** · Since Aug 2026
+**IIM Tiruchirappalli — Certificate in Product Management in the Agentic AI Era** · Since Nov 2026
 
 </details>
 
