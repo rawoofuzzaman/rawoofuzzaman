@@ -22,7 +22,7 @@ The code for these projects is private. I'm happy to walk through any of them.
 </p>
 
 <p align="center">
-  <img src="./more.svg?v=5" width="960" alt="More builds: Bait-ul-Maal, RUZM PM Bot, The Connected Circle and Unflatten. The code is private." />
+  <img src="./builds2.svg" width="960" alt="More builds: RUZM PM Bot, The Connected Circle and Unflatten. The code is private." />
 </p>
 
 <details>
@@ -44,16 +44,13 @@ Turns human-verified JSON scripts into video using NumPy, OpenCV and FFmpeg, inc
 **05 / Rawoof Factory — Local teaching-reel pipeline**<br />
 Makes short vertical teaching reels for rawoof.product ("App Secrets") using local models, with no paid AI per reel. A local model builds the topics; Gemma writes and reviews a storyboard and 13 narration lines; Qwen3-TTS voices them; Whisper aligns the words and re-takes garbled lines; HTML templates animate in headless Chrome; ffmpeg exports at 1080 × 1920, 30 fps. **Runs locally; reels are posted by hand.**
 
-**06 / Bait-ul-Maal — Community welfare treasury**<br />
-A zero-running-cost treasury for a local masjid: UPI QR giving for Zakat, Sadaqah, Fitra and Qard Hasan, QR receipts anyone can check against a tamper-evident public ledger, and blind committee review of help requests. **Working demo.**
-
-**07 / RUZM PM Bot — Free coach and toolkit for product managers**<br />
+**06 / RUZM PM Bot — Free coach and toolkit for product managers**<br />
 A Telegram bot and web dashboard with mock interviews graded against a rubric, a 30-day learning path, PRDs, user stories, RICE prioritisation and feedback analysis. It stays free by routing across 20+ free AI APIs and switching when one runs out of quota. **Built; code private.**
 
-**08 / The Connected Circle — Hybrid study gatherings**<br />
+**07 / The Connected Circle — Hybrid study gatherings**<br />
 People in the room and at home take part in the same study circle: a QR page for questions and reflections with no login, calm room screens, and breaks that show when the circle returns, all run from one phone. **Built; live testing pending.**
 
-**09 / Unflatten — Screenshot to editable design, offline**<br />
+**08 / Unflatten — Screenshot to editable design, offline**<br />
 A product spec for a local tool that rebuilds a flat screenshot as editable layers with real text, and scores its own match against the original. The targets are under 2 minutes per screen on an 8 GB Mac with no network calls. **Spec written; not yet built.**
 
 </details>
