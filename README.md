@@ -16,7 +16,7 @@ I own the product decisions and build with AI coding assistance: define the prob
 <p align="center"><img src="./divider.svg" width="960" alt="" /></p>
 
 <p align="center">
-  <img src="./builds.svg" width="960" alt="Selected builds: Al Amanah AI, Faris, Sakina Reels and Motion Reels. The code is private." />
+  <img src="./builds.svg" width="960" alt="Selected builds: Al Amanah AI, Faris, Educational Reels, Motion Reels and Rawoof Factory. The code is private." />
 </p>
 
 <details>
@@ -29,11 +29,14 @@ Rules-based screening, order handling and risk controls for NSE cash equities, b
 **02 / Faris — Multilingual voice assistant**<br />
 Built scheduled calls and voice-set reminders in English, Urdu and Hinglish. Designed retrieval across 39 books and 37,000+ passages, with a rule to cite sources or decline unsupported domain answers. Tested 46 calls; the final test passed 28/28 checks. **Paused after testing.**
 
-**03 / Sakina Reels — Local content automation**<br />
+**03 / Educational Reels — for a private community**<br />
 Built a pipeline for 1080 × 1920 Quran and Hadith reels on an 8 GB MacBook Air M1, with no paid APIs. Checked all 6,236 verses against two independent Uthmani sources and refused three with disputed word division. Prepared a 374-reel queue. **Built locally; batch not yet run and nothing posted live.**
 
 **04 / AI Motion-Graphics Reel Generator**<br />
 Turns human-verified JSON scripts into video using NumPy, OpenCV and FFmpeg, including right-to-left Arabic text. Qwen3 writes captions only; Whisper checks audio against on-screen text. A roughly 37-second video renders in about 2.5 minutes on an 8 GB M1. **Two samples made; auto-posting not built.**
+
+**05 / Rawoof Factory — Local teaching-reel pipeline**<br />
+Makes short vertical teaching reels for rawoof.product ("App Secrets") using local models, with no paid AI per reel. A local model builds the topics; Gemma writes and reviews a storyboard and 13 narration lines; Qwen3-TTS voices them; Whisper aligns the words and re-takes garbled lines; HTML templates animate in headless Chrome; ffmpeg exports at 1080 × 1920, 30 fps. **Runs locally; reels are posted by hand.**
 
 </details>
 
