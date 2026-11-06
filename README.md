@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg?v=2" width="960" alt="Rawoof Uz Zaman. Full-time trader, AI product builder, MBA candidate." />
+  <img src="./hero.svg?v=4" width="960" alt="Rawoof Uz Zaman. Full-time trader, AI product builder, MBA candidate." />
 </p>
 
 <p align="center">
@@ -13,10 +13,12 @@ I'm **Rawoof, a full-time trader and AI product builder**, pursuing an MBA at SR
 
 I own the product decisions and build with AI coding assistance: define the problem, set evaluation criteria, test the output and revise when the evidence changes.
 
-<p align="center"><img src="./divider.svg?v=2" width="960" alt="" /></p>
+### Selected builds
+
+The code for these projects is private. I'm happy to walk through any of them.
 
 <p align="center">
-  <img src="./builds.svg?v=2" width="960" alt="Selected builds: Al Amanah AI, Faris, Educational Reels, Motion Reels and Rawoof Factory. The code is private." />
+  <img src="./builds.svg?v=4" width="960" alt="Selected builds: Al Amanah AI, Faris, Educational Reels, Motion Reels and Rawoof Factory. The code is private." />
 </p>
 
 <details>
@@ -49,10 +51,8 @@ Makes short vertical teaching reels for rawoof.product ("App Secrets") using loc
 
 </details>
 
-<p align="center"><img src="./divider.svg?v=2" width="960" alt="" /></p>
-
 <p align="center">
-  <img src="./stack.svg?v=2" width="960" alt="Tools and skills, including Python, Qwen3, Whisper, FFmpeg, RAG and evaluation design." />
+  <img src="./stack.svg?v=4" width="960" alt="Tools and skills, including Python, Qwen3, Whisper, FFmpeg, RAG and evaluation design." />
 </p>
 
 <details>
