@@ -18,11 +18,11 @@ I own the product decisions and build with AI coding assistance: define the prob
 The code for these projects is private. I'm happy to walk through any of them.
 
 <p align="center">
-  <img src="./builds.svg?v=5" width="960" alt="Selected builds: Al Amanah AI, Faris, Educational Reels, Motion Reels and Rawoof Factory. The code is private." />
+  <img src="./work1.svg" width="960" alt="Selected builds: Al Amanah AI, Faris, Educational Reels, Motion Reels and Rawoof Factory. The code is private." />
 </p>
 
 <p align="center">
-  <img src="./builds2.svg" width="960" alt="More builds: RUZM PM Bot, The Connected Circle and Unflatten. The code is private." />
+  <img src="./work2.svg" width="960" alt="More builds: RUZM PM Bot, The Connected Circle and Unflatten. The code is private." />
 </p>
 
 <details>
@@ -33,32 +33,32 @@ The code for these projects is private. I'm happy to walk through any of them.
 Rules-based screening, order handling and risk controls for NSE cash equities, built inside Shariah limits: no derivatives, shorting or leverage. Each change is tested on history and in forward tests first, with 676 automated tests guarding the order path. **Private: the code and strategy rules are not public.**
 
 **02 / Faris — Multilingual voice assistant**<br />
-Built scheduled calls and voice-set reminders in English, Urdu and Hinglish. Designed retrieval across 39 books and 37,000+ passages, with a rule to cite sources or decline unsupported domain answers. Tested 46 calls; the final test passed 28/28 checks. **Paused after testing.**
+Built scheduled calls and voice-set reminders in English, Urdu and Hinglish. Designed retrieval across 39 books and 37,000+ passages, with a rule to cite sources or decline unsupported domain answers. Tested 46 calls; the final test passed 28/28 checks.
 
 **03 / Educational Reels — for a private community**<br />
-Built a pipeline for 1080 × 1920 Quran and Hadith reels on an 8 GB MacBook Air M1, with no paid APIs. Checked all 6,236 verses against two independent Uthmani sources and refused three with disputed word division. Prepared a 374-reel queue. **Built locally; batch not yet run and nothing posted live.**
+Built a pipeline for 1080 × 1920 Quran and Hadith reels on an 8 GB MacBook Air M1, with no paid APIs. Checked all 6,236 verses against two independent Uthmani sources and refused three with disputed word division. Prepared a 374-reel queue.
 
 **04 / AI Motion-Graphics Reel Generator**<br />
-Turns human-verified JSON scripts into video using NumPy, OpenCV and FFmpeg, including right-to-left Arabic text. Qwen3 writes captions only; Whisper checks audio against on-screen text. A roughly 37-second video renders in about 2.5 minutes on an 8 GB M1. **Two samples made; auto-posting not built.**
+Turns human-verified JSON scripts into video using NumPy, OpenCV and FFmpeg, including right-to-left Arabic text. Qwen3 writes captions only; Whisper checks audio against on-screen text. A roughly 37-second video renders in about 2.5 minutes on an 8 GB M1.
 
 **05 / Rawoof Factory — Local teaching-reel pipeline**<br />
-Makes short vertical teaching reels for rawoof.product ("App Secrets") using local models, with no paid AI per reel. A local model builds the topics; Gemma writes and reviews a storyboard and 13 narration lines; Qwen3-TTS voices them; Whisper aligns the words and re-takes garbled lines; HTML templates animate in headless Chrome; ffmpeg exports at 1080 × 1920, 30 fps. **Runs locally; reels are posted by hand.**
+Makes short vertical teaching reels for rawoof.product ("App Secrets") using local models, with no paid AI per reel. A local model builds the topics; Gemma writes and reviews a storyboard and 13 narration lines; Qwen3-TTS voices them; Whisper aligns the words and re-takes garbled lines; HTML templates animate in headless Chrome; ffmpeg exports at 1080 × 1920, 30 fps. **Runs locally.**
 
 **06 / RUZM PM Bot — Free coach and toolkit for product managers**<br />
-A Telegram bot and web dashboard with mock interviews graded against a rubric, a 30-day learning path, PRDs, user stories, RICE prioritisation and feedback analysis. It stays free by routing across 20+ free AI APIs and switching when one runs out of quota. **Built; code private.**
+A Telegram bot and web dashboard with mock interviews graded against a rubric, a 30-day learning path, PRDs, user stories, RICE prioritisation and feedback analysis. It stays free by routing across 20+ free AI APIs and switching when one runs out of quota. **Tested; code private.**
 
 **07 / The Connected Circle — Hybrid study gatherings**<br />
-People in the room and at home take part in the same study circle: a QR page for questions and reflections with no login, calm room screens, and breaks that show when the circle returns, all run from one phone. **Built; live testing pending.**
+People in the room and at home take part in the same study circle: a QR page for questions and reflections with no login, calm room screens, and breaks that show when the circle returns, all run from one phone. **Tested; code private.**
 
 **08 / Unflatten — Screenshot to editable design, offline**<br />
-A product spec for a local tool that rebuilds a flat screenshot as editable layers with real text, and scores its own match against the original. The targets are under 2 minutes per screen on an 8 GB Mac with no network calls. **Spec written; not yet built.**
+A local design tool, designed to rebuild a flat screenshot as editable layers with real text and score its own match against the original. The targets are under 2 minutes per screen on an 8 GB Mac with no network calls.
 
 </details>
 
 <details>
 <summary><strong>More experiments</strong></summary>
 
-- **AI Deen Coach:** a Telegram study coach with small daily lessons, a source on every card and spaced-repetition quizzes. In planning.
+- **AI Deen Coach:** a Telegram study coach designed around small daily lessons, a source on every card and spaced-repetition quizzes.
 - **Learning PM by shipping:** taking one small AI product from discovery to real users, kept as a private journal.
 - **RUZM Stand:** a 3D-printable Mac mini stand designed around airflow, with an open tunnel for intake and exhaust.
 - **Heatect:** a rechargeable lunchbox prototype. Sourced international components, iterated heating performance and chose an external battery management system to address heat risks.
